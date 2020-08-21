@@ -5,4 +5,4 @@ Classification of the Mice Protein Expression Data set from the UCI Machine Lear
 SOD1_N, pPKCG_N and APP_N were identified by both random forest and decision tree models to be among the most important proteins to consider to classify mice. KNN model also produced a high classification accuracy but has yet to determine if results are due to overfitting. Rankings of other proteins vary depending on decision tree and random forest algorithm. Further steps to produce classifiers for genotype, behaviour and treatment indivudually, as opposed to combined classes. Some proteins may not be important for classifying a combination of all three categories, but only one of them. 
 
 ## Changelog: 
-#### 14th August 2020: This is an ongoing project, with analysis yet to be finalised. 
+#### 21st August 2020: This is an ongoing project, with analysis yet to be finalised. However initial report has been updated. 
