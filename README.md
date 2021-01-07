@@ -6,3 +6,4 @@ SOD1_N, pPKCG_N and APP_N were identified by both random forest and decision tre
 
 ## Changelog: 
 #### 21st August 2020: This is an ongoing project, with analysis yet to be finalised. 
+#### 7th August 2020: Final report has been published. Alternative strategies, such as identifying genotype, behavious and treatment individually have yet to be conducted. 
